@@ -1,0 +1,52 @@
+{
+  "name": "venting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "mtech server",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.385.0",
+    "@aws-sdk/credential-provider-node": "^3.385.0",
+    "@parse/node-apn": "^5.2.3",
+    "@sendgrid/mail": "^8.1.3",
+    "agora-token": "^2.0.3",
+    "apn": "^2.2.0",
+    "aws-sdk": "^2.1390.0",
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^7.0.1",
+    "firebase-admin": "^11.10.1",
+    "jsonwebtoken": "^8.5.1",
+    "loadash": "^1.0.0",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^5.12.12",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.4",
+    "otp-generator": "^2.0.1",
+    "path": "^0.12.7",
+    "rand-token": "^1.0.1",
+    "redis": "^3.1.2",
+    "socket.io": "^4.6.1",
+    "stripe": "^12.17.0",
+    "validator": "^13.9.0",
+    "winston": "^3.3.3",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "mocha": "^9.0.1"
+  }
+}

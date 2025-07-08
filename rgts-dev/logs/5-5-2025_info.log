@@ -1,0 +1,12 @@
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-05T03:44:29.311Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-05T03:44:31.350Z'
+}

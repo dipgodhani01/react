@@ -1,0 +1,1068 @@
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:55:15.973Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:55:18.041Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:57:50.926Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:57:52.976Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:57:54.766Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T03:57:56.829Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:23.730Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:25.775Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:37.502Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:39.519Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:42.715Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:44.760Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:52.625Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:54.675Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:57.363Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:01:59.389Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:08:31.067Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:08:33.114Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:08:39.661Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:08:41.720Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:09:21.438Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:09:23.484Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:09:49.628Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:09:51.678Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:09:58.372Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:00.425Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:05.897Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:07.925Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:09.813Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:11.854Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:22.979Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:10:25.010Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:11:17.027Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:11:19.079Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:11:28.377Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:11:30.410Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:12:06.448Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:12:08.512Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:18.416Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:20.467Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:35.235Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:37.290Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:54.541Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:30:56.595Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:11.579Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:13.614Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:17.203Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:19.255Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:42.346Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:44.424Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:45.866Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:31:47.909Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:32:03.442Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:32:05.481Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:32:07.582Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:32:09.638Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:35:39.274Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:35:41.336Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:37:33.050Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:37:35.091Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:37:40.882Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:37:42.935Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:02.674Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:04.723Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:31.575Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:33.603Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:46.556Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:39:48.596Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:40:16.290Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:40:18.368Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:41:50.100Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:41:52.140Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:42:05.534Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:42:07.564Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:42:18.468Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:42:20.505Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:37.435Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:39.477Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:48.105Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:50.140Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:52.313Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:49:54.357Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:50:05.361Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:50:07.797Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:50:09.818Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:50:43.327Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:50:45.378Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:07.419Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:10.454Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:12.641Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:14.668Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:23.562Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:51:25.604Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:52:44.694Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:52:46.738Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:54:48.709Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:54:50.764Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:56:30.517Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T04:56:32.577Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:28:32.100Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:28:34.145Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:30:55.327Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:30:57.366Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:30:59.015Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:31:01.062Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:42:15.532Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:42:17.590Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:18.180Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:20.791Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:23.062Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:25.118Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:36.846Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:38.882Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:49.005Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:45:51.033Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:52:04.852Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:52:06.907Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:52:16.508Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T05:52:18.543Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:07:23.190Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:07:25.251Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:07:37.442Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:07:39.490Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:14:25.070Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:14:27.120Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:12.060Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:14.090Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:22.987Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:25.111Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:35.129Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:37.208Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:43.186Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:45.215Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:53.955Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:56.029Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:15:59.611Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:16:01.656Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:16:06.730Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:16:08.778Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:32:54.397Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:32:56.447Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:33:15.282Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:33:17.306Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:33:19.288Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:33:21.355Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:34:01.488Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:34:03.530Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:34:10.929Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:34:12.975Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:43.148Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:45.583Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:47.637Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:53.071Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:55.095Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:56.916Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:38:58.958Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:39:20.650Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T06:39:22.689Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:28:55.094Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:28:57.158Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:30:35.702Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:30:37.755Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:34:25.841Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:34:27.884Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:40:28.669Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:40:30.708Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:57:49.991Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T08:57:52.047Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:27:05.519Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:27:07.563Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:27:51.645Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:27:53.675Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:30:38.915Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:30:40.982Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:35:04.321Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T09:35:06.370Z'
+}
+{
+  message: 'Server up at port 3100',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T12:51:25.043Z'
+}
+{
+  message: 'connected to MongoDB',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2025-06-02T12:51:27.070Z'
+}
